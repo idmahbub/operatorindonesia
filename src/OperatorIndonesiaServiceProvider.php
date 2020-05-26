@@ -1,6 +1,6 @@
 <?php
 
-namespace Deogw\OperatorIndonesia;
+namespace Idmahbub\OperatorIndonesia;
 
 use Illuminate\Support\ServiceProvider;
 
